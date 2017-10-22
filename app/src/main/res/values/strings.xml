@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Experiment3</string>
+
+    <string name="removeItemMsg">移除第%d个商品</string>
+</resources>
